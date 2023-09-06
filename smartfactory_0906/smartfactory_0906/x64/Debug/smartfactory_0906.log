@@ -1,0 +1,4 @@
+﻿  string2.cpp
+C:\cplusplus\smartfactory_0906\smartfactory_0906\string2.cpp(54): warning C4715: 'trueorfalse_stream': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\cplusplus\smartfactory_0906\smartfactory_0906\string2.cpp(32): warning C4715: 'trueorfalse': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  smartfactory_0906.vcxproj -> C:\cplusplus\smartfactory_0906\x64\Debug\smartfactory_0906.exe
